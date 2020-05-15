@@ -3,8 +3,8 @@
     <string name="background_image">background image</string>
     <string name="app_logo">app logo</string>
     <string name="desired_league">Desired League:</string>
-    <string name="mens">Mens</string>
-    <string name="womens">Womens</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
     <string name="co_ed">Co-Ed</string>
     <string name="next">Next</string>
     <string name="go_all_in">GO ALL IN</string>
